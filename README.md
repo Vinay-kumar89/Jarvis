@@ -1,2 +1,2 @@
 # Jarvis
-A Jarvis is created using Javascript,
+A Jarvis is created by using Javascript,
